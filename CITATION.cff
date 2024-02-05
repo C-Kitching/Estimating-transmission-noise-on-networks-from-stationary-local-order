@@ -8,19 +8,3 @@ version: 2.0.4
 doi: 10.5281/zenodo.1234
 date-released: 2024-02-18
 url: "https://github.com/C-Kitching/Estimating-transmission-noise-on-networks-from-stationary-local-order"
-preferred-citation:
-  type: article
-  authors:
-  - family-names: "Kitching"
-    given-names: "Christopher"
-  - family-names: "Galla"
-    given-names: "Tobias"
-  doi: "10.0000/00000"
-  journal: "Journal Title"
-  month: 9
-  start: 1 # First page number
-  end: 10 # Last page number
-  title: "Estimating transmission noise on networks from stationary local order"
-  issue: 1
-  volume: 1
-  year: 2024
