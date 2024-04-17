@@ -3,8 +3,8 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Kitching"
   given-names: "Christopher"
-title: "My Research Software"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
+title: "Estimating transmission noise on networks from stationary local order"
+version: 1.0.0
+doi: https://github.com/C-Kitching/Estimating-transmission-noise-on-networks-from-stationary-local-order
 date-released: 2024-02-18
 url: "https://github.com/C-Kitching/Estimating-transmission-noise-on-networks-from-stationary-local-order"
